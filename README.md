@@ -1,2 +1,2 @@
 # Mushroom-cultivation
-rduino controled enviroment for mushroom cultivation
+Arduino controled environment for mushroom cultivation
